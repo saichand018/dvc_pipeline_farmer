@@ -2,4 +2,3 @@ wget
 sklearn
 pandas
 seaborn
-matplotlib
