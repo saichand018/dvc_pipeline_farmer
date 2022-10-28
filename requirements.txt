@@ -2,3 +2,4 @@ wget
 sklearn
 pandas
 seaborn
+dvc
